@@ -1,2 +1,2 @@
 # einstein
-Npm module examples
+Npm module examples for node.js
